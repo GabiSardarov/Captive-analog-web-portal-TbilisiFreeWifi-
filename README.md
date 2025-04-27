@@ -4,7 +4,7 @@
 This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
 
 # Description
-HTML Captive portal for Tbilisi free Wi-Fi analog web page data scraper.
+HTML Captive portal for Tbilisi free Wi-Fi analog web page data receiver.
 
 Has 4 ways of signing-in with buttons. 
 
